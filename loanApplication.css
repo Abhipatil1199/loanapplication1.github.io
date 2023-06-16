@@ -1,0 +1,38 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.container{
+    height: 550px;
+    width: 500px;
+    border-radius: 16px;
+   box-shadow: 0px 0px 10px black;
+}
+input{
+    padding: 12px;
+    width: 240px;
+    margin: 24px;
+    margin-left: 120px;
+    font-size: medium;
+    border-radius: 15px;
+    border: none;
+    outline: none;
+    box-shadow: 0px 0px 6px lightblue;
+}
+#btn1{
+    margin-top: 2px;
+    width: 160px;
+    height: 40px;
+   font-size: medium;
+   padding: 2px;
+}
+#btn2{
+    background-color: rgb(149, 236, 18);
+}
+#amountInWords{
+    margin-left: 130px;
+    font-weight: 700;
+}

@@ -1,1 +1,1 @@
-# loanapplication1.github.io
+# loanApplication.github.io
